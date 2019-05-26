@@ -1,0 +1,7 @@
+//Lili Chen
+Time taken for BST when N = 1000: 3191 microseconds
+Time taken for AVL when N = 1000: 4521 microseconds
+Time taken for BST when N = 100000: 520875 microseconds
+Time taken for AVL when N = 100000: 629064 microseconds
+Time taken for BST when N = 1000000: 8206716 microseconds
+Time taken for AVL when N = 1000000: 7814894 microseconds
